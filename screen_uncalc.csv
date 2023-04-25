@@ -1,0 +1,373 @@
+Formula,Original database,Space group,PBE bandgap,HSE06 bandgap,asr_id/material_id
+NaCoSb,c2db,P 4/n m m,0.0,,f33c020e4b65dfbb4782fe3dcc8ae45e
+Ti4H2N3O2,c2db,P -3 m 1,0.0,,07fe7ece2211aeeadb1887cefe22ba5d
+HfSCl,c2db,P m n 21,0.0,,7216790e4eafcc810585aed6e8eb22d1
+InNi5I2,c2db,P 4/m m m,0.0,,47f4cb3a70f5ad3188d0969fbc5d0f1e
+ZrSI,c2db,P m m n,0.0,,c9660315a340d58b934accbe8911d90c
+NiSBr,c2db,P m m n,0.0,,d46ef2f71a06b730042c518ebefe4a0f
+Nb2Se2N,c2db,P -3 m 1,0.0,,2a32819ab2a73a2be08f7de9b394656f
+Mn(AlS2)2,c2db,P 3 m 1,0.0,,e9f09f2a40373cb1cc89d3fb1d147f58
+Cu2ReCl6,c2db,P -3,0.46698112211892306,0.0,86c5de50519d9bc48e6a8a9741585805
+Y(BiO2)2,c2db,P 4/m m m,0.0,,1292c5be133e7022a6d4425c8715ae20
+GaNi5I2,c2db,P 4/m m m,0.0,,cd29fff81535354b7e4802e22aae8e16
+Ni2AgO4,c2db,P -6 m 2,0.0,,f1506ef9cb7f0a6a289708f3fb6fc27f
+Ta2NiS5,c2db,P m m n,0.0,,7b4068300a3de29552de0c2b1f8fc676
+Hf4N3O2,c2db,P -3 m 1,0.0,,ff5ae22cc0bb7c3f9c5b99b5a0d66760
+LiCoSb,c2db,P 4/n m m,0.0,,5dd5e9f291b45261eb704e8835e8d743
+Mn(GaS2)2,c2db,P 3 m 1,0.0,,5b314402873dfdea5982eaf7bd715b17
+Ta2Te5Pd3,c2db,P m m n,0.0014701456515859856,,18060eebe2af13ec469ae7f2eea49f57
+NiSCl,c2db,P m m n,0.0,,94465cadd395557b9282b67bb94b4ed3
+GeSI,c2db,P m m n,0.0,,7c5e692ab190c00e1bde7c9a83025274
+TiIO,c2db,P m m n,0.0,,38508cbbebaa8f3d0916ff3c7da44142
+ZrTeSe,c2db,P 3 m 1,0.0,,bb384009e73ef802ff3d7a2ddcb87723
+Nb2BSe2,c2db,P -3 m 1,0.0,,03b5c188bb8a5358fbbd394a690f0373
+MnSeI,c2db,P m m n,0.0,,9fd5b951f464304f0a57088204779951
+NiSI,c2db,P m m n,0.0,,af6b604359fce47d77590cab2c286649
+VSeS,c2db,P 3 m 1,0.013308938393933323,,0f3ba3ea815f8f455e06c6230d918ff6
+GaNi5Cl2,c2db,P 4/m m m,0.0,,39e741e94b38b7b459e0c4f565a15541
+NbTeS,c2db,P 3 m 1,0.0,,102587cb1e02739d7a650e03b86d9a1a
+HfSCl,c2db,P m m n,0.0,,dffb40b6f7fa5e43b2af758bc897d2fa
+MnSeCl,c2db,P m m n,0.0,,6bdadd86e6c44dfe01063e86686770ae
+ScHCl,c2db,P -3 m 1,0.0,,5efff89e5011c660fde01a60d609c81f
+Sr2Cu(BrO)2,c2db,P 4/m m m,0.0,,c8172770f8e381d847b15124896cbdea
+PdSBr,c2db,P m m n,0.0,,1add6813d74beeb55eb9bba1fed1b586
+TiTeSe,c2db,P 3 m 1,0.0,,4e0ab8d328c1e9b6dfbe322e0db8eeef
+Nb2BS2,c2db,P -3 m 1,0.0,,ebfa158c64deca1c541dc760c5f058dd
+Ti2H2CO2,c2db,P -3 m 1,0.0,,b2d548e0d08a4c8d2351fc647edd62ac
+Nb4C3O2,c2db,P -3 m 1,0.0,,58ce1af757a62be93857cc47e9d7109a
+Zr4H2C3O2,c2db,P -3 m 1,0.0,,72f35401db84cfb041a7ecc0f73dec3e
+TiTeS,c2db,P 3 m 1,0.0,,f7951952a07e05d590d265c7a3b86222
+NaFeP,c2db,P 4/n m m,0.0,,715f9101cac74aa2ba9c8b4a4a7bf336
+Y4N3,c2db,P -3 m 1,0.0,,fbdd97a53c664e30b56dc171b41b963a
+Li2H2Pd,c2db,P 4/m m m,0.0,,823b9947221252ac3a4080c932e86369
+NbIN,c2db,P m m n,0.0,,0a976c052dc82277324c4eb90ebebf93
+Re(AgCl3)2,c2db,P -3 1 m,0.7776381573105611,0.0,63c4affdd5b9cfe6255fc5c5e83c83e4
+Sc2NCl2,c2db,P -3 m 1,0.0,,db8061f698aac36a4227397606d1f9e5
+Nb2CSe2,c2db,P -3 m 1,0.0,,8effb8ba456c6a9a606b9625b07a4d7f
+LiFeSb,c2db,P 4/n m m,0.0,,b39e73a8e6efda51458e56962b06ed29
+RuSI,c2db,P m m n,0.0,,94601e1f6ead0ac6e0f8ac4bb8d8c916
+CuBrO,c2db,P m m n,0.0,,a95780cef7ed35cb56fbbb73d9c0b39a
+NbNiTe5,c2db,P m m a,0.0,,458e9d9d5b4d72815dc3255bab27d864
+Zr4C3O2,c2db,P -3 m 1,0.0,,fbb2fbe7f2fac38b836b1e5a3d67c928
+TiSBr,c2db,P m m n,0.0,,776f130906a60619237b93e3df4200b8
+Sc4N3,c2db,P -3 m 1,0.0,,daf440ed06462ed63b70b69e8894f1f0
+Nb2PdSe6,c2db,C 2/m,0.0,,2c7db27c6af6047cdf4ef45df7b4505a
+Ta3SiTe6,c2db,P m c 21,0.0,,149f8852acf8e98815005b2a24bbcb6f
+Bi2Pt,c2db,P 3 1 m,0.0,,280bc515e55bd5d4de9729030d97a54f
+HfSI,c2db,P m m n,0.0,,ec1f519d1cf09151ab4eddf318c04268
+B(MoSe)2,c2db,P -3 m 1,0.0,,f9f328b7958209cf913a60d0301ffcc7
+RuSeI,c2db,P m m n,0.0,,e9384bdc5d66fc541ec0a69965b09c8f
+Nb2S2N,c2db,P -3 m 1,0.0,,0c364e9c8bdd9773b3c9667ab7429ed2
+TaTe4Rh,c2db,P 21/m,0.07634795586380871,0.000829866865059703,a2731a85b078aa816532273fb04c9256
+NiIO,c2db,P m m n,0.0,,96fb249c879b31f36f4ed7b3f501e1b0
+V2CS2,c2db,P -3 m 1,0.0,,d38048797ff8c40849af52536a051871
+Ba2N,c2db,P -3 m 1,0.0,,2514e2d14e9d30b47e1d59ed5afad59a
+Mo2CSe2,c2db,P -3 m 1,0.0,,f7fc837cf78cde4cd1bf1c0393280c5c
+VClO,c2db,P m m n,0.0,,6b982cc914e375a14535eca6d60196ac
+Sr2N,c2db,P -3 m 1,0.0,,349814957f5a9e8f5df9c75a15443cb2
+VTeSe,c2db,P 3 m 1,0.0,,dd97df500ccd9bc075502a2205ee17d4
+TiSI,c2db,P c,0.0,,b408f8627c6a1e957f191b1b1b3a20e3
+Y3C2,c2db,P -6 m 2,0.0,,9644e139e5a523eb1f540e36b2beec67
+NbTeSe,c2db,P 3 m 1,0.0,,27b7ef56e482d0d29aab3e806ad9cfed
+ZrSeBr,c2db,P m n 21,0.0,,801d3e724c920d437b03ddad3989e153
+Mn2NO2,c2db,P -3 m 1,0.0,,540070b9d26635be1c9901998173727e
+FeSI,c2db,P m m n,0.0,,cb2ad51fb6a8530fefcc612fe8ef0373
+TaSeS,c2db,P 3 m 1,0.0,,99af5bd4140be6e6c148f35f42f7d00e
+MnSeBr,c2db,P m m n,0.0,,fb1a2ad27d8a29b27f286f7c9158bbd0
+V2H2O5,c2db,C 2/m,0.0,,df22927ea6d261f748a6d55358df1437
+Ta2CSe2,c2db,P -3 m 1,0.0,,ec6eaf3e262906bb79ae793d06dc7686
+NbTeS,c2db,P 3 m 1,0.0,,2753f78356c55a9c9d0bdb2ec453fafb
+TaFeTe3,c2db,P 21/m,0.0,,9c5e3077787274b0f867acfc509b80f8
+Ta2Se2N,c2db,P -3 m 1,0.0,,ddd48ebbaa75454ade459ccc97e27f4f
+Ti2H2NO2,c2db,P -3 m 1,0.0,,ef85367368d9112ab17d37e7cb3051b0
+Zr2S2N,c2db,P -3 m 1,0.0,,794d2232d02465f845ab12704d80902e
+Mn(InSe2)2,c2db,P 3 m 1,0.0,,47a23138b0d3ff584428de2cefcf1791
+ZrNiBr6,c2db,P 3 1 2,1.3010601703239928,0.0,58bbdebe3477a0939ae59ac93efcf9c3
+V2H2CO2,c2db,P -3 m 1,0.0,,c08bda91646bfa77caab9f9a3f906577
+Ni2SbTe2,c2db,P -6 m 2,0.0,,0739004ad1e7b784a2bebd6b6fb7425e
+CaMnSi,c2db,P 4/n m m,0.0,,7ff0ce39e1136cccb513ee51d9ccbc7c
+Sr2Cu(IO)2,c2db,P 4/m m m,0.0,,cddf3b6386f00458adece3114e158c97
+HfNiBr6,c2db,P 3 1 2,1.355200966050786,0.0,f5da1fb79dd2df19a84b38bb72d93236
+Ta4C3O2,c2db,P -3 m 1,0.0,,acc81ed9524c2433071368aa80cb9ae9
+AlNi5Br2,c2db,P 4/m m m,0.0,,5e8218e1336f8179ba511cb96367ab92
+TaTeSe,c2db,P 3 m 1,0.0,,6fc5865d090f7258a41bbd2acdf45a0d
+ZrSBr,c2db,P m m n,0.0,,7c2df31b4f423002ce369fc6be472d60
+TaNi2Te3,c2db,P 21/m,0.0,,62c77548c21fffb7dcabf4d71196974b
+TaIN,c2db,P m m n,0.0,,32a0bad9df9d062d8903efb9663654fe
+Ca3Cu2(BrO2)2,c2db,P 4/m m m,0.0,,dfda1489ebe7d2083488544cff42545d
+SnSeI,c2db,P m m n,0.0,,d48d77a8cba4c690996380a2e079f527
+CoSeCl,c2db,P m m n,0.0,,f590648c0347fd7996b5bb96ee2bc7bf
+LiNiSb,c2db,P 4/n m m,0.0,,9c3d6f5e794f5f0c28de5cae8d1b2027
+V3(CO)2,c2db,P -6 m 2,0.0,,e21f49107b44d76843b9e0760e82569d
+Ta(CoTe)2,c2db,P m m n,0.0,,ba63c82ca91f73955b110962e98f7d66
+Ta2CS2,c2db,P -3 m 1,0.0,,1e4fd3c1cc579d4788895a534ff1476e
+ZrSeCl,c2db,P m n 21,0.0,,9cab003b77d2cbe772b6abd5069f25b2
+Ta2BSe2,c2db,P -3 m 1,0.0,,225216028a0b40876b5f6b4a57334e34
+Ti2Se2N,c2db,P -3 m 1,0.0,,40910ee0a13524c32a52a9590a31c678
+Ti4C3O2,c2db,P -3 m 1,0.0,,371db1cdd68025d4b19108f88e464c1e
+Re(AgBr3)2,c2db,P -3 1 m,0.5617430973655768,0.0,832b3b1525d2635db78f8c417840d2f9
+Al2ZnS4,c2db,P 3 m 1,0.0,,68cd1637da2489739f26a96fdc5ce353
+Mn4N3O2,c2db,P -3 m 1,0.0,,24ea907e3c1df6eb98b4a4701b522f43
+HfSI,c2db,P c,0.0,,8bfbfea3fb65724af4fedaccffe98c1e
+ZrSeCl,c2db,P m m n,0.0,,1cb0107256a4d08c75ba245053ed7aa6
+InPt5I2,c2db,P 4/m m m,0.0,,974e6231f93790801d950b6d6fdf6c02
+V3(NO)2,c2db,P -6 m 2,0.0,,358facb64a22cc37fb1beb5ba3aa9a52
+Sc4H2N3O2,c2db,P -3 m 1,0.0,,276cd0b1ef5a2d927b2b48065e653662
+Zr2Te2P,c2db,P -3 m 1,0.0,,c9685dfbfc4be56ddb3467aa35db141a
+ZrBi2,c2db,P -3 m 1,0.0,,e84dd90ec3aa54c034b4aa14de1ac425
+CaFeSi,c2db,P 4/n m m,0.0,,ad50106eb1544abd5571d6b9ec95e9c0
+ZrSCl,c2db,P m m n,0.0,,bfaf06cbed693fabe355a1986ceabb8b
+V4C3O2,c2db,P -3 m 1,0.0,,e514d721f76841bc0b0a09b490c08a7a
+TiSeI,c2db,P m m n,0.0,,581dcbc13cdd8c97e5d7368900823669
+NiSeBr,c2db,P m m n,0.0,,014c41b1bf55bbe75743be3ad89dcec0
+TiSeBr,c2db,P m m n,0.0,,8c47fd2382fb59cf2ab30a0b39971541
+Nb2PdS6,c2db,C 2/m,0.0,,5243b1c90a706621a3f034e650fb7484
+CoSeBr,c2db,P m m n,0.0,,306dc34b6c1641ba0810360a4171d2e2
+NbSeS,c2db,P 3 m 1,0.0,,91a283a2d283dcfa10582d72399867c1
+NiSeCl,c2db,P m m n,0.0,,b762d21f77cb0bdbf4cd6aa6dc508199
+HfBi2,c2db,P -6 m 2,0.0,,17f1085c54c948c79364977a17bea30e
+RhIO,c2db,P m m n,0.0,,a97ef16c9cf18fe78c75e758b6ffe729
+HfSeI,c2db,P m n 21,0.0,,2fb0cf8c48e5cd0e516824fe62e5ba75
+TiBi2,c2db,P -3 m 1,0.0,,f9ee64a801f30a0d063b2855839097ba
+Bi2Rh,c2db,P -1,0.013688002047352654,0.010032830186146535,2f0b48df1ed06c5f2d01ced8286c2c22
+NbTe5Pd,c2db,P m m a,0.0,,a4bce42b6f22d8973650fb9367fe41a8
+HfSeCl,c2db,P m m n,0.0,,9fad07dcf971b016da3114b3cbac9a92
+RuSBr,c2db,P m m n,0.0,,d4183cfb4bdaea4a219813cab1ca47dc
+HfSeCl,c2db,P m n 21,0.0,,5ae6fee60d686c5d99f3b1ffa3f8c3e3
+Zn3(InS3)2,c2db,P 3 m 1,0.0,,6121b7a2eba1472670d6bb8bcc030ca8
+HfSBr,c2db,P m m n,0.0,,0a8751c719934be91b55bae5ce0ff291
+SrFeSi,c2db,P 4/n m m,0.0,,527a8b8a05590ca6919db32acfeec2d7
+HfSeBr,c2db,P m m n,0.0,,8c5a5aa2ee3dd7aae32d9cbb83fb03c0
+Nb2CS2,c2db,P -3 m 1,0.0,,ee7ff08cb7bba4b24b6a19f67a2c45f9
+LiMnP,c2db,P 4/n m m,0.0,,32e0950b0bbbdb8955bb75530bb30081
+Ti3H2(CO)2,c2db,P -6 m 2,0.0,,b2d22251cb52359fec12bb099b3b0079
+ZrBi2,c2db,P -6 m 2,0.0,,b54a1d0b276e37b809f6722f2ab52c24
+FeClO,c2db,P m m n,0.0,,60d6f215d0579d1703c40172d5d63387
+Zr2CS2,c2db,P -3 m 1,0.0,,efb0aedd834970442dd7b8ed98f57c72
+LiFeP,c2db,P 4/n m m,0.0,,6fa390787635c1e0e676380945425504
+RuSeBr,c2db,P m m n,0.0,,5d9399f88a9b7fcd105b9ea3a53e75d8
+HfNiI6,c2db,P 3 1 2,0.8622856414108382,0.0,96019ef5d6a6a802c0be7f334daf4153
+Ti2CSe2,c2db,P -3 m 1,0.0,,b2025a3ebc33ad1e444d19b4940771d5
+ZrIO,c2db,P m m n,0.0,,59bedd7edd9d3f22adc7be0d3c367389
+ZrSeI,c2db,P m m n,0.0,,6863564cf8725e4a42f60b6a29a9b70e
+Ta2BS2,c2db,P -3 m 1,0.0,,d39eb24da67c1a5df6634852a6f5ccba
+ZrSBr,c2db,P m n 21,0.0,,3837d8c65032e7181469018b31062193
+Mn2H2CO2,c2db,P -3 m 1,0.0,,7938aedd38e33827a9514a7255a22779
+Ti4N3,c2db,P -3 m 1,0.0,,60767d391cd917ca9664da00b8f48713
+RuSCl,c2db,P m m n,0.0,,feb7035dd8d4a58189eace500a95e4a8
+Li2Rh,c2db,P -6 m 2,0.0,,be44554cce475f964517c36ce27adc17
+NaW2(Br3O)2,c2db,P m m m,0.0,,8c7266a16afcbc9c7b8e046a0bf8b850
+TiSeI,c2db,P m n 21,0.00613617578660125,,914ac491bbc4c5539fd1e55c524c79a5
+Nb2CO2,c2db,P -3 m 1,0.0,,3c1fe25e76218cf8cd6ef7f5bd4cf67c
+Hf4C3O2,c2db,P -3 m 1,0.0,,23a4e5897606e26365cb6bb07c9be35e
+Ta2PdS6,c2db,C 2/m,0.0,,5502f078e4cbb4800ca24cece1877625
+TiSBr,c2db,P m n 21,0.0,,8b41fd56e7675de4b91498c2f1b82683
+InPd5I2,c2db,P 4/m m m,0.0,,0fb5b33d2007d797cb90490eee5e88a6
+Ti4N3O2,c2db,P -3 m 1,0.0,,d3dfa2d0150516d2511f599c5960b2fd
+PdSCl,c2db,P m m n,0.0,,ec19ada40a6fe210b32aabecaafa3287
+NiHO2,c2db,P 21/m,0.0,,84de1dd2c542a1854e9fe1ec59036597
+Ta2CO2,c2db,P -3 m 1,0.0,,f59f6f77e7136bf2479f4fe17a833fdc
+Ti2S2N,c2db,P -3 m 1,0.0,,3225922ec8f9c15b3ed01fd31f4612e7
+NiPSe3,c2db,P -3 1 m,0.0,,9cdd5e072a0547d1af746c497989e725
+ZrSeBr,c2db,P m m n,0.0,,7f68fef34dbb1120a83ad6464faef821
+NbTeSe,c2db,P 3 m 1,0.0,,42c9fb2f24aadd23b83c1e223fe2f84a
+TaTe5Pt,c2db,P m m a,0.0,,7dd9274a7f1f67d9d2cc893b26717d5e
+Ni2P2Se5,c2db,C m,0.0,,2147f9675e5d7686d8323b9b7695eadd
+CoSeI,c2db,P m m n,0.0,,bdf997116531005824e29cbee23d3899
+V2S2N,c2db,P -3 m 1,0.0,,371eb4ce88d328f0e4515e0d025d33cb
+TiSeCl,c2db,P m m n,0.0,,0b4cdaea0409e0813dd9e171f548aa39
+HfBi2,c2db,P -3 m 1,0.0,,ed9b447c7b9c2803e9009ba28dc8e323
+PPdS3,c2db,P -3 1 m,0.013777604655280662,0.013460243222098933,8f893a677af56c0dfd4f9fa357c9aae3
+HfSBr,c2db,P m n 21,0.0,,1ae805a7aa244487250d05d7bb427c38
+Fe3GeTe2,c2db,P -6 m 2,0.0,,38cc35ba8ee5e63ce8b93fd862958486
+HfSiTe,c2db,P 4/n m m,0.0,,2885d2d6f73ff374491cb803f0768ac1
+ZrSCl,c2db,P m n 21,0.0,,df12602a0e6d0150408afe8c4fd0575d
+VIN,c2db,P m m n,0.0,,0a821d6fb09b8e11bfc35c21b58aa6e2
+NiSeI,c2db,P m m n,0.0,,57ffd206dd550aeffafff2720e103168
+Ta2S2N,c2db,P -3 m 1,0.0,,11a2681eed1a4d4041dceed73960ee3f
+ZrSI,c2db,P c,0.0,,f23dc91afcd3fac2449d62c22044959a
+C,c2db,P 6/m m m,0.0003000685114302737,0.0002564957267392476,a6735a4a379722b5108dc5aceae8f5c0
+NiPS3,c2db,P -3 1 m,0.02821452297980831,,de2432ed42aaa7a84b717a10c5a86dc4
+HfSeBr,c2db,P m n 21,0.0,,bf7cb837feb7b941d20775cbb8ffae21
+VMoO5,c2db,P 4/n,0.0030682904120213905,,0d9682591901acda429399d6f021d4ae
+Zn2In2S5,c2db,P 3 m 1,0.0,,b789b6e2023e1d49e5c653467611cac8
+Ti2Te2P,c2db,P -3 m 1,0.0,,55076d64a7ee2f379b216b6aaacfb13d
+Zr2CSe2,c2db,P -3 m 1,0.0,,2a55a2e160ba6d8a5746274c904f27f1
+PtSeI,c2db,P m m n,0.0,,5715ec7a2d544189696d7a1f426195db
+V2CSe2,c2db,P -3 m 1,0.0,,944bca1b77ee7cc856afabd14ae191d1
+Mn2Ga2S5,c2db,P -3 m 1,0.0,,297a09935d9718a07ba47a0b32f7d2d0
+TiSCl,c2db,P m m n,0.0,,e298d77a8c1664269e77de9f39e2a7d4
+W2N3,c2db,P -6 m 2,0.0,,87417a764fc4c258649edb9bec7a23d4
+VSeS,c2db,P 3 m 1,0.0,,18612ec43ebaaac0cc4d95b76d920fdc
+Nb3SiTe6,c2db,P m c 21,0.0,,22d3ae87208a6e30e958bf4b8a7b4390
+Ta(NiTe)2,c2db,P m m a,0.0,,e8d00b44207673885cddc9674cd29524
+RuCl2O,c2db,P m m m,0.0,,f5f0968f1ac22b75c27754561ae87d19
+VTeS,c2db,P 3 m 1,0.0,,05f16dc9de6b9b530f16534d84f0498d
+InPd5Br2,c2db,P 4/m m m,0.0,,74cb7ce6d2d00134be58113c58ab1462
+GaNi5Br2,c2db,P 4/m m m,0.0,,31ea063f06120ac494ac3c091a298d2f
+Ta3(CO)2,c2db,P -6 m 2,0.0,,07c22c9fa37d88303aefe44ba24e0e64
+In2Fe2Se5,c2db,P 3 m 1,0.0,,0ed2cc2c3a86e88463f3d5b8a6e5033a
+PPdSe3,c2db,P -3 1 m,0.0,0.0,7c1844ff89efc082f970344ea7b59313
+NaCoP,c2db,P 4/n m m,0.0,,b747637c50bc2cf6e30f6f8cc2597a76
+Nb3GeTe6,c2db,P m c 21,0.0,,f6fc6c10c9500050501aae7646329fff
+Mn4N3,c2db,P -3 m 1,0.0,,0bb15dc7977c6e9bfe29cb24a4108715
+VTeS,c2db,P 3 m 1,0.0,,18374204965dedbb73f528a57fd96952
+TaTeS,c2db,P 3 m 1,0.0,,7f5aa4f26de797ad5b510d1f7b98d1db
+PdSeI,c2db,P m m n,0.0,,aaba1a6be8bda2c2b3c2f98fa13a18c4
+Y4H2N3O2,c2db,P -3 m 1,0.0,,f6105836b95f4d6edb5dd7c04e103532
+LiCoP,c2db,P 4/n m m,0.0,,af0b1eaa2316e57f7cc185e39a4086c2
+V2Se2N,c2db,P -3 m 1,0.0,,c512134d9f762a072bc43b3f64568d20
+AlNi5I2,c2db,P 4/m m m,0.0,,33ca4510932d871cf584cd6bab8f4615
+TaNi2TeSe,c2db,P m m a,0.0,,3bd396fd2a86e9e4e78b662a9b890c88
+Y4C3,c2db,P -3 m 1,0.0,,cc0d08effe8773db5be6f02cf952da94
+Nb3(CO)2,c2db,P -6 m 2,0.0,,1c8352a388fb895fff793d51674814d4
+LiC12,c2db,P 6/m m m,0.0,,21228177c585f72d2e30747ba0ce0581
+VBrO,c2db,P m m n,0.0,,c35a3888dc02d1a1a501b5b31354ea70
+Zr4N3O2,c2db,P -3 m 1,0.0,,29bc3a11ef98e80ff1fc3f030a5ccce8
+Mn2H2NO2,c2db,P -3 m 1,0.0,,af38ffeefb906c4a2a1ebab67c7f7856
+RhSeI,c2db,P m m n,0.0,,b70e4617372c542328c13ecc77fe6a9b
+TiPS3,c2db,P -3 1 m,0.0,,1b2e64d113e5b2a0bd9571c5b65a7b9c
+TiSCl,c2db,P m n 21,0.0,,8c00680c95222f40adf0a557558f3173
+Sc4C3,c2db,P -3 m 1,0.0,,ebdc35e1cc669747098422f507c4e719
+Zr4C3,c2db,P -3 m 1,0.0,,70f55c32aafd4aeec5e280adc6427088
+Ta3Te14Pd3,c2db,P m,0.0,,567573c6227399cf9e684fc1100623ac
+NaNiP,c2db,P 4/n m m,0.0,,0a96a1dd75a7fd068ca5aacbe8e6c44c
+V2CO2,c2db,P -3 m 1,0.0,,32760833191c4105853b64451e7b56ac
+Ti2CS2,c2db,P -3 m 1,0.0,,701c04b90c63530969fd8886cd2b318f
+YGaI,c2db,P -3 m 1,0.0,,8b7bfe568b8536ac8296ee2105d7bbb9
+ZrSiTe,c2db,P 4/n m m,0.0,,a5883b61044a2c258ad786f0cd0a8506
+PdSI,c2db,P m m n,0.0,,fcb02824107b63c6fb80083ca3cbeeda
+HfSeI,c2db,P m m n,0.0,,6436bf6f8c99bc0158be1e568887f2c5
+Ta2PdSe6,c2db,C 2/m,0.0,,bf1872bc70d95faaf031cebf6444a640
+Ti4H2C3O2,c2db,P -3 m 1,0.0,,ec020ed8f687bda252cc3c4caa3ecb24
+V2BSe2,c2db,P -3 m 1,0.0,,230a70d2f65ab17b0d3fa38f646546e7
+TaNiTe5,c2db,P m m a,0.0,,3608b973918b35f3d3c617aded9b7413
+Zr2Se2N,c2db,P -3 m 1,0.0,,d567fba5f5babe9a112c0a2e2a7a1c80
+PdSeCl,c2db,P m m n,0.0,,2631946efce5caa5bb9a2f7fad169190
+Sn3H,2dmatpedia,P -3 m 1,0.0,,2dm-123
+Ag18Se11,2dmatpedia,P 1,0.0,,2dm-863
+Ca2Zn,2dmatpedia,P 4/m m m,0.0,,2dm-946
+Ba2Rh,2dmatpedia,P 4/m m m,0.0,,2dm-1463
+NiBi2,2dmatpedia,P 21/m,0.0,,2dm-1524
+Ag18S11,2dmatpedia,P 1,0.0,,2dm-1959
+Ag18Te11,2dmatpedia,P 1,0.0,,2dm-1987
+Ca2P,2dmatpedia,P m m n,0.0,,2dm-2985
+PdN2,2dmatpedia,P m m m,0.0,,2dm-3049
+Na2HfN2,2dmatpedia,P -3 m 1,0.0,,2dm-3157
+TbGaI,2dmatpedia,P -3 m 1,0.0,,2dm-3186
+HfSiSe,2dmatpedia,P 4/n m m,0.0,,2dm-3197
+Na2ZrN2,2dmatpedia,P -3 m 1,0.0,,2dm-3246
+TbCBr,2dmatpedia,C 2/m,0.0,,2dm-3362
+Sr2Co(BrO)2,2dmatpedia,P 4/m m m,0.0,,2dm-3389
+NbTe5Pd,2dmatpedia,P m c 21,0.0,,2dm-3443
+KFe2Se3,2dmatpedia,P m m a,0.0,,2dm-3466
+YCI,2dmatpedia,C 2/m,0.0,,2dm-3498
+Sr3Co2Cl2O5,2dmatpedia,P 4/m m m,0.0,,2dm-3534
+KMnP,2dmatpedia,P 4/n m m,0.0,,2dm-3539
+K2RuBr6,2dmatpedia,P m n 21,0.0,,2dm-3547
+RbMnP,2dmatpedia,P 4/n m m,0.0,,2dm-3567
+KFe2S3,2dmatpedia,P m m a,0.0,,2dm-3636
+Ta2Te5Pd3,2dmatpedia,P m n 21,0.0,,2dm-3671
+Ca3Cu2(ClO2)2,2dmatpedia,P 4/m m m,0.0,,2dm-3683
+LuHCl,2dmatpedia,P -3 m 1,0.0,,2dm-3705
+Y4CI5,2dmatpedia,P m m m,0.0,,2dm-3744
+ErHCl,2dmatpedia,P -3 m 1,0.0,,2dm-3748
+Y6C2I7,2dmatpedia,C 2/m,0.0,,2dm-3764
+Sr4Mn3(ClO4)2,2dmatpedia,P 4/m m m,0.0,,2dm-3777
+TaCoTe2,2dmatpedia,P 21/c,0.009600000000000053,,2dm-3823
+SrBi5O9,2dmatpedia,P m,0.0,,2dm-3840
+La2PBr2,2dmatpedia,P -3 m 1,0.0,,2dm-3863
+Sr2MnClO3,2dmatpedia,P 4/n m m,0.0,,2dm-3892
+Ta4AgS8,2dmatpedia,P 21/m,0.0,,2dm-3916
+ZrTiTe4,2dmatpedia,P 2/m,0.0,,2dm-3950
+Mn3SbO8,2dmatpedia,C 2/m,0.0,,2dm-3954
+Y7C3I6O,2dmatpedia,P m m a,0.0,,2dm-3961
+La2(BiO2)7,2dmatpedia,P 1,0.0,,2dm-4106
+KV4O10,2dmatpedia,A m m 2,0.0,,2dm-4134
+CeBiS2O,2dmatpedia,P 4/n m m,0.0,,2dm-4177
+YCBr,2dmatpedia,C 2/m,0.0,,2dm-4248
+CuBrO2,2dmatpedia,P 2/m,0.0,,2dm-4280
+Nb3IrSe8,2dmatpedia,C 2,0.0,,2dm-4296
+Ge3(BiTe3)2,2dmatpedia,P 3 m 1,0.0,,2dm-4303
+Ce4C2Br5,2dmatpedia,P m m m,0.0,,2dm-4339
+La4C2Br5,2dmatpedia,P m m m,0.0,,2dm-4354
+Bi2Rh3S2,2dmatpedia,C 2/m,0.0,,2dm-4366
+Pr4C2Cl5,2dmatpedia,P m m m,0.0,,2dm-4382
+CeBrO,2dmatpedia,P -3 m 1,0.0,,2dm-4389
+Zr2HBr2,2dmatpedia,P 21/m,0.0,,2dm-4431
+EuIO,2dmatpedia,P 4/n m m,0.0,,2dm-4439
+Ta4Co2PdSe12,2dmatpedia,C 2/m,0.006600000000000161,,2dm-4446
+Sr2Cu(BiO3)2,2dmatpedia,P m n a,0.0,,2dm-4561
+Nb3IrS8,2dmatpedia,C 2,0.0,,2dm-4569
+Mo2HO6,2dmatpedia,P 1,0.0,,2dm-4570
+La2PI2,2dmatpedia,P -3 m 1,0.0,,2dm-4584
+Li2H2Pd,2dmatpedia,P 4/m m m,0.0,,2dm-4654
+Ca(TiS2)8,2dmatpedia,P -3 m 1,0.0,,2dm-4657
+Ag(TeMo)6,2dmatpedia,C 2/m,0.0,,2dm-4692
+TiNbS4,2dmatpedia,P 2/m,0.0,,2dm-4756
+RbV4O10,2dmatpedia,C m m m,0.0,,2dm-4806
+CeBrO,2dmatpedia,P 4/n m m,0.0,,2dm-4833
+NbFeTe2,2dmatpedia,P m n a,0.0,,2dm-4857
+Mn2FeO6,2dmatpedia,C 2/m,0.0,,2dm-4875
+ZrSiSe,2dmatpedia,P 4/n m m,0.0,,2dm-4879
+LiCu2(CO3)2,2dmatpedia,P 1,0.0,,2dm-4900
+NbCoTe2,2dmatpedia,P 21/c,0.0,,2dm-4907
+AgHO2,2dmatpedia,C m,0.0,,2dm-4923
+Er(ReO4)2,2dmatpedia,P -3,0.0,,2dm-5009
+Dy2(BiO2)7,2dmatpedia,C m,0.0,,2dm-5013
+Ca5Ir,2dmatpedia,P m c 21,0.0,,2dm-5064
+Sr2CoClO3,2dmatpedia,P 4/n m m,0.0,,2dm-5101
+Na3(TiS2)10,2dmatpedia,C m,0.0,,2dm-5140
+Sc5NCl8,2dmatpedia,P 2/m,0.0,,2dm-5179
+Li2H2Pt,2dmatpedia,P 4/m m m,0.0,,2dm-5197
+Sc7(CCl5)2,2dmatpedia,C 2/m,0.0,,2dm-5229
+Mn3CuO8,2dmatpedia,P -3 m 1,0.006700000000000372,,2dm-5253
+EuBrO,2dmatpedia,P 4/n m m,0.0,,2dm-5279
+Sc5CCl8,2dmatpedia,P 2/m,0.0,,2dm-5280
+Ag(AuS)2,2dmatpedia,P c,0.0,,2dm-5282
+ZrBrO,2dmatpedia,P -3 m 1,0.0,,2dm-5322
+CeSiI,2dmatpedia,P -3 m 1,0.0,,2dm-5325
+ZrGeTe,2dmatpedia,P 4/n m m,0.0,,2dm-5375
+NaW2(Br3O)2,2dmatpedia,P 2/m,0.0,,2dm-5378
+Sr2CoCu2O7,2dmatpedia,P m c 21,0.0,,2dm-5431
+Nb9IrSe20,2dmatpedia,P -1,0.0,,2dm-5432
+CeZnPO,2dmatpedia,P -3 m 1,0.0,,2dm-5580
+Nb4IrSe10,2dmatpedia,P -1,0.0,,2dm-5716
+AlH4(SeO4)2,2dmatpedia,P 21/c,0.0,,2dm-5790
+CuSi2P3,2dmatpedia,P m,0.0,,2dm-5831
+LiCuPO4,2dmatpedia,P -4 21 m,0.0,,2dm-5846
+ZrHCl,2dmatpedia,P -3 m 1,0.0,,2dm-5857
+Cu2H2CO5,2dmatpedia,P 21/c,0.0,,2dm-5887
+N2,2dmatpedia,P m n a,0.0,,2dm-5958
+N2,2dmatpedia,P 21/m,0.0,,2dm-5985
+KC12,2dmatpedia,P 6/m m m,0.0,,2dm-6025
+NaC12,2dmatpedia,P 6/m m m,0.0,,2dm-6027
+NiBi2,2dmatpedia,P 3 1 m,0.0,,2dm-6155
+RbC12,2dmatpedia,P 6/m m m,0.0,,2dm-6224
+NiN2,2dmatpedia,P m m m,0.0,,2dm-6240
+NbS2,2dmatpedia,P -1,0.0,,2dm-364
+NbS3,2dmatpedia,P 21/m,0.0,,2dm-1482
+TaSe3,c2db,P m m n,0.0,,f9ab1865cb8c2d69108e2673a3905f12
+PtSe3,c2db,P 21/m,0.0,,b97b884bdf982e7fd35b81029408519f
+CoSe,c2db,P -3 m 1,0.0,,17ef6bf46fb679f216b9a30eb1fb08fa
+AlSe2,c2db,C 2/m,0.0,,82f4b5399be7f7f314018e0c3f848114
+Zr3Se2,2dmatpedia,P 4/m m m,0.0,,2dm-1009
+Hf3Se2,2dmatpedia,P 4/m m m,0.0,,2dm-1704
+TaTe3,c2db,P m m n,0.0,,4a5a67a9569fe33cdf0ea1a31b072b90
+CoTe,c2db,P -3 m 1,0.0,,043e7be1d7027ed2299bd51bc1e9c63f
+TaTe3,2dmatpedia,P -1,0.0,,2dm-800
+CuTe2,2dmatpedia,P -4 m 2,0.0,,2dm-2299
+CaCl,c2db,P 4/n m m,0.0,,521fe8b7710926d729a7a3e42e377936
+VCl3,c2db,P -3 1 m,0.0,0.026779141235950377,8e5cf44cfd10e88f3026d02766ea6b42
+NdCl2,2dmatpedia,P 4/m m m,0.0,,2dm-796
+AgCl2,2dmatpedia,P 21/c,0.0,,2dm-1095
+Bi9Cl2,2dmatpedia,P 21/m,0.0,,2dm-1455
+Bi4Cl,2dmatpedia,P 2/m,0.0,,2dm-1487
+Sb4Br,2dmatpedia,P 2/m,0.0,,2dm-172
+HfBr3,2dmatpedia,P -3 1 m,0.0,,2dm-6422
+CuBr2,2dmatpedia,C 2/m,0.0,,2dm-3750
+InI2,c2db,P -6 m 2,0.0,,73f0be4073471ad53bb0062a85fea845
+RhI2,c2db,P -3 m 1,0.0,,1f1223669a0304da63f27a56fddf12a4
+NbSe3,2dmatpedia,P -1,0.0,,2dm-1518
+NbTe3,2dmatpedia,P -1,0.0,,2dm-1869
+YTe,2dmatpedia,P 4/n m m,0.0,,2dm-2422
